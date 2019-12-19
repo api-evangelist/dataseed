@@ -1,0 +1,77 @@
+{
+    "name": "Dataseed",
+    "description": "Dataseed is the simplest way to create beautiful interactive visualizations. Use our free online service or integrate Dataseed with your web app.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1832-dataseed.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dataseed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dataseed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1832-dataseed.jpg",
+            "humanURL": "http:\/\/getdataseed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dataseed-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/dataseedapp.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.getdataseed.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/DataseedBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dataseed"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/getdataseed.com\/documentation"
+        },
+        {
+            "type": "Email",
+            "url": "team@getdataseed.com"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@getdataseed.com"
+        },
+        {
+            "type": "Email",
+            "url": "payment@getdataseed.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dataseed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dataseedapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/getdataseed.com"
+        }
+    ]
+}
